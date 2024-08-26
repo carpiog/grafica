@@ -16,7 +16,7 @@ const data = {
 };
 
 const chartCliente = new Chart(ctx, {
-    type: 'bar',
+    type: 'polarArea',
     data: data,
 });
 

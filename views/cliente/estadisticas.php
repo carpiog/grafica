@@ -10,7 +10,7 @@
 </div>
 
 <div class="row justify-content-center">
-    <div class="col">
+    <div class="col-lg-4">
         <canvas id="chartVentas" width="100%"></canvas>
     </div>
 </div>
